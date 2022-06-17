@@ -1,0 +1,2 @@
+# WHMCS
+Stripay for WHMCS
